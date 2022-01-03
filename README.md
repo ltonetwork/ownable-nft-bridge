@@ -1,2 +1,2 @@
-# nft-bridge
+# NFT Bridge
 Bridge for NFTs and Ownables
